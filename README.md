@@ -1,5 +1,8 @@
 # SpotifyVolumeChanger
 
+`npm install`
+then then executables will work
+
 Set your hotkeys to your preferences in config.json, you should just be able to run using the executables given
 When the executable runs, you'll be prompted to log in with spotify and then the browser tab will close.
 
