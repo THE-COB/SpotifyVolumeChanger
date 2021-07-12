@@ -1,0 +1,26 @@
+{
+	"platform": "windows",
+	"showKeyDetections": true,
+	"keybinds": [
+		{
+			"key": "ctrl + ]",
+			"volumeChange": 4,
+			"volumeSet": null
+		},
+		{
+			"key": "ctrl + [",
+			"volumeChange": -4,
+			"volumeSet": null
+		},
+		{
+			"key": "ctrl + 0",
+			"volumeChange": null,
+			"volumeSet": 0
+		},
+		{
+			"key": "ctrl + shift + !",
+			"volumeChange": null,
+			"volumeSet": 100
+		}
+	]
+}
