@@ -18,7 +18,7 @@
 			"volumeSet": 0
 		},
 		{
-			"key": "ctrl + shift + !",
+			"key": "ctrl + shift + #",
 			"volumeChange": null,
 			"volumeSet": 100
 		}

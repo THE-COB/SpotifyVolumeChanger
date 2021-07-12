@@ -5,5 +5,16 @@
     "node-hotkeys": "^1.3.1",
     "open": "^8.2.1",
     "request-to-curl": "^0.1.6"
-  }
+  },
+  "name": "spotifyvolumechanger",
+  "version": "1.0.0",
+  "description": "Attach hotkeys to change you spotify volume",
+  "main": "generateCurl.js",
+  "bin": "generateCurl.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node generateCurl.js"
+  },
+  "author": "rohan",
+  "license": "ISC"
 }
