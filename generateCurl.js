@@ -13,7 +13,8 @@ const port = 3000;
 
 const hotkeys = require('node-hotkeys')
 
-let client_id = '8bcb18f826f0438cabccb8538a12bfaa'; // Your client id
+let client_id = '8bcb18f826f0438cabccb8538a12bfaa'; // Definitely not a client_id 
+let client_secret = 'suck my dick lmao'; // Definitely a client_secret
 let redirect_uri = 'http:%2F%2Flocalhost:3000%2Fcallback'
 
 let auth = `https://accounts.spotify.com/authorize?client_id=${client_id}&redirect_uri=${redirect_uri}&scope=user-read-playback-state%20user-modify-playback-state&response_type=token`;
